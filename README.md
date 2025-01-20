@@ -1,10 +1,8 @@
-# Cara Menjalankan Program C++ secara online
-
-1. Salin kode C++ Yang tersedia.
-2. Buka website ini: [https://www.programiz.com/cpp-programming/online-compiler/](https://www.programiz.com/cpp-programming/online-compiler/).
-3. Tempel kode C++ di editor yang tersedia.
-4. Klik tombol **Run**.
-5. Lihat hasil output di bawah editor.
-
+# Cara Menjalankan Program java secara online
+- Salin code java di atas
+- Buka website ini: https://www.programiz.com/java-programming/online-compiler/.
+- Tempel kode Java di editor yang tersedia.
+- Klik tombol Run.
+- Lihat hasil output di bawah editor.
 Selesai!
 
